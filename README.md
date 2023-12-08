@@ -1,5 +1,7 @@
 ## About
-It is a ls-command analogue made at EPITECH's course Unix system programming
+It is a ls-command analogue made at EPITECH's course Unix system programming.
+
+
 It reproduces ls behavior with flags:
 
  - t – time sorting
