@@ -1,0 +1,10 @@
+*.log
+*.o
+*.a
+*.so
+*~
+\#*\#
+*.out
+*.gcno
+*.gcda
+.idea
